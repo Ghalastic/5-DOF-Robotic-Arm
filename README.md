@@ -29,7 +29,9 @@ Sketch: Create a rough sketch of the robot arm on a digital drawing tool.
 ####
 Components: Choose servos, and other actuators that match the design.
 ####
-#### Program: TinkerCad
+#### Program:
+#### 
+TinkerCad
 ### Link:
 #### 
 [Tinkercad Robotic Arm Design](https://www.tinkercad.com/things/beyQ8EDCScX-copy-of-5-dof-robotic-arm)
