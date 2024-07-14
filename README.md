@@ -32,7 +32,7 @@ Tinkercad
 #### 
 ### Link:
 #### 
-[Tinkercad Robotic Arm Design](https://www.tinkercad.com/things/beyQ8EDCScX-copy-of-5-dof-robotic-arm)
+[Tinkercad 5 DOF Robotic Arm Design](https://www.tinkercad.com/things/beyQ8EDCScX-copy-of-5-dof-robotic-arm)
 #### 
 ### Image:
 #### 
