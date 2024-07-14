@@ -4,7 +4,7 @@
 #### 
 Design a 3D robotic arm with 5 degrees of freedom (DOF).
 #### 
-### Define the Goal of the Design
+### 1. Define the Goal of the Design
 ####
 Before designing a 5 Degree of Freedom (DOF) robotic arm, we must realize that it involves a systematic process which requires an understanding of mechanical design, kinematics, and electronics. The goal of the design is to determine what the robotic arm will be used for (picking and placing objects, educational purposes, etc.). In this case, it will be used for picking and placing objects.
 #### 
