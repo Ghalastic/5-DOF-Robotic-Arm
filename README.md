@@ -10,7 +10,7 @@ Before designing a 5 Degree of Freedom (DOF) robotic arm, we must realize that i
 #### 
 ### 2. Degrees of Freedom (DOF) Configuration:
 ####
-We must decide on the number of joints and wether they're rotational or prismatic. 
+We must decide on the number of joints and whether they're rotational or prismatic. 
 ####
 For a 5 degree of freedom (DOF) robotic arm, typically, it includes:
 #### 
