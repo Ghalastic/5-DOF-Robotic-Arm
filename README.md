@@ -1,18 +1,18 @@
-# 5 Degree of Freedom (DOF) Robotic Arm
+# 5 Degree of Freedom (DoF) Robotic Arm
 ####
 ## Task Description: 
 #### 
-Design a 3D robotic arm with 5 degrees of freedom (DOF).
+Design a 3D robotic arm with 5 degrees of freedom (DoF).
 #### 
 ### 1. Define the Goal of the Design
 ####
-Before designing a 5 Degree of Freedom (DOF) robotic arm, we must realize that it involves a systematic process which requires an understanding of mechanical design, kinematics, and electronics. The goal of the design is to determine what the robotic arm will be used for (picking and placing objects, educational purposes, etc.). In this case, it will be used for picking and placing objects.
+Before designing a 5 Degree of Freedom (DoF) robotic arm, we must realize that it involves a systematic process which requires an understanding of mechanical design, kinematics, and electronics. The goal of the design is to determine what the robotic arm will be used for (picking and placing objects, educational purposes, etc.). In this case, it will be used for picking and placing objects.
 #### 
-### 2. Degrees of Freedom (DOF) Configuration:
+### 2. Degrees of Freedom (DoF) Configuration:
 ####
 We must decide on the number of joints and whether they're rotational or prismatic. 
 ####
-For a 5 degree of freedom (DOF) robotic arm, typically, it includes:
+For a 5 degree of freedom (DoF) robotic arm, typically, it includes:
 #### 
 - Base rotation
 - Shoulder joint
